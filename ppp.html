@@ -2992,7 +2992,7 @@
         <div class='logo-area cf'>
             <div class='logo-box'>
                 <a href='/'>
-                    <img alt='Blog Sécurisé Logo' class='no-lazy' fetchpriority='high' src='cybersecurite.png'/>
+                    <img alt='Blog Sécurisé Logo' class='no-lazy' fetchpriority='high' src='https://cdn-icons-png.flaticon.com/512/6783/6783360.png'/>
                     <em>Blog Sécurisé</em>
                 </a>
             </div>
